@@ -9,6 +9,7 @@ In 1957, the KL grading scale was proposed, which gives a grade of 0 to 4 for th
 The database includes anteroposterior knee radiograph assessments of 400 participants in Chang Gung Memorial Hospital and the diagnosis was determined on each X-ray images with the original resolution by a doctor. These data include patients with grades 0 to 4 of the KL grading scale, and the quantity of data is the same among these grades.  This database contains X-ray images of the left and right knees. In addition, on each X-ray image without any personal information.
 
 Range for Image size: (1700 ~ 3000) x (1000 ~ 2500)
+
 Images type: PNG
 
 # Contact
