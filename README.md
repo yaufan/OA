@@ -12,5 +12,12 @@ Range for Image size: (1700 ~ 3000) x (1000 ~ 2500)
 
 Images type: PNG
 
+
+| KL-0 | KL-1 | KL-2 | KL-3 | KL-4 |
+|:-----|:------:|------:|:------:|:------:|
+| (No OA) |	(Possibility) | (Slight)	| (Moderate)	| (Severe) |
+| <img src= https://github.com/yaufan/OA/blob/master/Image/0/1013_0.png height="150" width="80" /> |	<img src= https://github.com/yaufan/OA/blob/master/Image/1/2444_1.png height="150" width="80" /> | <img src= https://github.com/yaufan/OA/blob/master/Image/2/2347_2.png height="150" width="80" />	|  <img src= https://github.com/yaufan/OA/blob/master/Image/3/1942_3.png height="150" width="80" />		|  <img src= https://github.com/yaufan/OA/blob/master/Image/4/102_4.png height="150" width="80" />	|
+
+
 # Contact
 If you have any general doubt about our data which may be of interest for other researchers, please use the public issues section on this GitHub repo. Alternatively, drop us an e-mail at mailto: cgmhailab@gmail.com. 
