@@ -10,7 +10,9 @@ The database includes anteroposterior knee radiograph assessments of 400 partici
 
 Range for Image size: (1700 ~ 3000) x (1000 ~ 2500)
 
-Images type: PNG
+Images type: PNG (8 Bit)
+
+Images channel: 3
 
 
 | KL-0 | KL-1 | KL-2 | KL-3 | KL-4 |
